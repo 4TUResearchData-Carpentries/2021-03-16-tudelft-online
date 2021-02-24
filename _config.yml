@@ -43,7 +43,7 @@ flavor: "python"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "March 2021 SWC workshop - Eindhoven University of Technology - TU/e (online)"
+title: "March 2021 SWC workshop"
 
 
 #------------------------------------------------------------
