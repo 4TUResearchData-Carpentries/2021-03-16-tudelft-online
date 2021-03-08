@@ -31,6 +31,17 @@ double quotation marks around the value, unless specified otherwise.
 And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
+<h4 id="general">Contents</h4>
+<p><small>
+ <ul>
+  <li><a href="#general">General Information</a></li>
+  <li><a href="#Collaborating-Entities">Collaborating Entities</a></li>
+  <li><a href="#surveys">Surveys</a></li>
+  <li><a href="#lessons">Lessons</a></li>
+  <li><a href="#schedule">Schedule</a></li>
+  <li><a href="#setup">Software Setup Instructions</a></li>
+</ul>
+</small></p>
 
 {% comment %}
 {% endcomment %}
@@ -263,12 +274,11 @@ Edit the text to match who can attend the workshop. For instance:
 </p>
 {% endcomment %}
 
-<hr/>
 
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
-<h2 id="code-of-conduct">Code of Conduct</h2>
+<h3 id="code-of-conduct">Code of Conduct</h3>
 
 <p>
 Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
