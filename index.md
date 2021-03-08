@@ -331,6 +331,13 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 <hr/>
 
+{% comment %}
+LESSONS - LINK TO FROZEN LESSONS
+{% endcomment %}
+<h2 id="lessons">Lessons</h2>
+{% include swc/lessons.html %}
+<hr/>
+
 
 {% comment %}
 SCHEDULE
