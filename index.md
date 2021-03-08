@@ -291,7 +291,7 @@ This workshop is possible thanks to the collaboration of the following entities,
   <a href="https://www.4tu.nl/en/.se" title="4TU-Federation">
     <img style="margin-right:50px" alt="4TU" src="img/4TU.png" width="170"/>
   </a>
-  <a href="http://www.cfm.ehu.es" title="Materials Physics Center">
+  <a href="https://cfm.ehu.es" title="Materials Physics Center">
     <img style="margin-right:50px" alt="CFM" src="img/LogoCFM.png" width="130"/>
   </a>
 </div>
