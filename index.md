@@ -304,6 +304,9 @@ This workshop is possible thanks to the collaboration of the following entities,
   <a href="https://cfm.ehu.es" title="Materials Physics Center">
     <img style="margin-right:50px" alt="CFM" src="img/LogoCFM.png" width="130"/>
   </a>
+  <a href="https://www.tue.nl/en/" title="Eindhoven University of Technology">
+    <img alt="TUe" src="https://user-images.githubusercontent.com/66591500/110459570-6e2c9a80-80cd-11eb-941d-8127fae325ae.jpg" width="170"/>
+  </a>
 </div>
 <hr/>
 
