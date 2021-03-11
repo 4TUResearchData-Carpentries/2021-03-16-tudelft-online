@@ -298,11 +298,17 @@ Everyone who participates in Carpentries activities is required to conform to th
 This workshop is possible thanks to the collaboration of the following entities, which allow us to do this under our working schedule and contribute to the associated costs.
 
 <div class="sponsor-logos">
-  <a href="https://www.4tu.nl/en/.se" title="4TU-Federation">
+  <a href="https://www.4tu.nl/en" title="4TU-Federation">
     <img style="margin-right:50px" alt="4TU" src="img/4TU.png" width="170"/>
+  </a>
+  <a href="https://www.tue.nl/en" title="Eindhoven University of Technology">
+    <img style="margin-right:50px" alt="TUE" src="img/TU-e.jpg" width="170"/>
   </a>
   <a href="https://cfm.ehu.es" title="Materials Physics Center">
     <img style="margin-right:50px" alt="CFM" src="img/LogoCFM.png" width="130"/>
+  </a>
+  <a href="https://www.ehu.eus/es/web/gaffa" title="Departamento de Genética, Antropología Física y Fisiología Animal de la Universidad del País Vasco/ Euskal Herriko Unibertsitatea (UPV/EHU)">
+    <img style="margin-right:50px" alt="UPV/EHU" src="img/EHU-Gen-dpt.png" width="300"/>
   </a>
 </div>
 <hr/>
